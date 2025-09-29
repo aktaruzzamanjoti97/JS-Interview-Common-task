@@ -1,4 +1,4 @@
-// 8. comma operator
+// 8. Comma operator
 
 let x = 1;
 x = (x++, x);

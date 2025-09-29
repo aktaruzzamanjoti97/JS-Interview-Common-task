@@ -1,4 +1,4 @@
-// 1. Swaping values
+// 1. Swapping values
 let array = [1, 2, 3, 4, 5];
 
 // temp variable

@@ -1,4 +1,4 @@
-// 3. destructuring aliases
+// 3. Destructuring aliases
 
 const language = {
     name: "JavaScript",

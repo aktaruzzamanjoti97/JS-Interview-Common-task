@@ -1,4 +1,4 @@
-// 2. copy to clipboard
+// 2. Copy to clipboard
 
 function copyToClipBoard(str) {
     const element = document.createElement("textarea");
