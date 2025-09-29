@@ -1,9 +1,9 @@
-// Know perfomance of a task
+// Know performance of a task
 
-const startTime = perfomance.now()
+const startTime = performance.now()
 
 for (let i = 0; i < 50; i++) {
     console.log(i);
 }
 
-const endTime = perfomance.now()
+const endTime = performance.now()

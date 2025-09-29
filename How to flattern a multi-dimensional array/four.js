@@ -1,4 +1,4 @@
-// How to flattern a multi-dimensional array
+// How to flatten a multi-dimensional array
 let smileys = ['🥰', ['😄', '😃'], '😉', ['🥲', '😑']];
 
 // We can use array.flat() method to flattern one level array
